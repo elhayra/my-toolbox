@@ -12,4 +12,5 @@
 ## Jetbrain IDE (any of them)
 * install plugins: .env files support, .ignore, gittoolbox, atom material icons, material theme ui, openapi spec
 
+## KDE connect
 
