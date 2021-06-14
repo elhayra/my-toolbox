@@ -14,3 +14,8 @@
 
 ## KDE connect
 
+## Online Notes Taking - https://www.notion.so/ 
+
+## Online Timeline/Flowcharts - https://swimlanes.io/
+
+
