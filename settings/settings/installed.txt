@@ -1,9 +1,0 @@
-IdeaVIM
-com.chrisrm.idea.MaterialThemeUI
-com.hiberbee.intellij.hiberbee-theme
-com.intellij.swagger
-com.mallowigi
-mobi.hsz.idea.gitignore
-name.kropp.intellij.makefile
-ru.adelf.idea.dotenv
-zielu.gittoolbox
