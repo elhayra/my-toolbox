@@ -19,6 +19,7 @@ instead of minimizing windows, hide them by using cmd+h
 cmd+t - open new tab
 cmd+option+f - search google in current tab
 cmd+w - close current tab
+ctrl+tab - scroll b/w open tabs
 
 
 
