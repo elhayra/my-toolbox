@@ -23,6 +23,7 @@ ctrl+tab - scroll b/w open tabs
 
 ## Maccy
 https://maccy.app/
+brew install maccy
 
 
 
