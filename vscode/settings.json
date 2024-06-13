@@ -1,0 +1,46 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.largeFileOptimizations": false,
+  "vim.vimrc.enable": true,
+  "workbench.startupEditor": "none",
+  "todohighlight.isEnable": true,
+  "todohighlight.isCaseSensitive": false,
+
+  // The number of spaces a tab is equal to. This setting is overridden
+  // based on the file contents when `editor.detectIndentation` is true.
+  "editor.tabSize": 2,
+
+  // Insert spaces when pressing Tab. This setting is overriden
+  // based on the file contents when `editor.detectIndentation` is true.
+  "editor.insertSpaces": true,
+
+  // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+  // will be detected based on the file contents. Set to false to keep
+  // the values you've explicitly set, above.
+  "editor.detectIndentation": false,
+  "editor.lineNumbers": "on",
+  "C_Cpp.default.cppStandard": "c++11",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "jest.autoRun": {},
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.colorTheme": "Webstorm IntelliJ Darcula Theme",
+  "redhat.telemetry.enabled": false,
+  "git.openRepositoryInParentFolders": "always",
+  "editor.accessibilitySupport": "off",
+  "editor.minimap.enabled": false,
+  "search.followSymlinks": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "window.zoomLevel": 1,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "files.autoSave": "onFocusChange"
+}
